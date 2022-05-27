@@ -1,0 +1,46 @@
+1. Proper types for provided situations:
+	- int
+	- float
+	- int
+	- string
+	- decimal
+	- int
+	- decimal
+	- decimal
+	- long
+	- ulong
+	- long
+
+2. Boxing is converting a value type to a reference type. Unboxing is vice versa. 
+	- value type holds the value, reference holds the memory location.
+	- value type stored in stack, reference type in heap.
+	- value types: int, float, bool, etc. ref types: string, obj, etc.
+	- value types not garbage collected, ref types are.
+
+3. Managed resources are .NET code and are managed by runtime. Unmanaged resources are not; like file handles,
+pinned memory, and database connections.
+
+4. It manages allocation and release of memory automatically. It can prevent memory leaks and nonfreed objects
+
+--------Part 2---------
+1. DivideByZeroException will be thrown.
+
+2. It will return infinity or NaN.
+
+3. It will overflow the int, C# won't throw OverflowException by default.
+
+4. Use y, then incrememnt by 1 vs. increment by 1 first, then use y.
+
+5. break terminates the current loop. Continue starts a new iteration of the loop. 
+Return terminates the loop and returns control to the caller.
+
+6. Initializer section is used to initialize variables for the loop. Condition section determines
+if the loop keeps running. Iterator section occurs after each loop is executed. All sections are optional
+
+7. = assigns values. == compares equality.
+
+8. Yes. It's an infinite loop.
+
+9. _ replaces default, it should match anything if reached.
+
+10. IEnumerable.

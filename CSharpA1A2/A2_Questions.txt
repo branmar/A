@@ -1,0 +1,13 @@
+1. StringBuilder is mutable, string is immutable. String operations use more memory.
+So StringBuilder will be better when your going to be doing many operations on a string.
+
+2. Array
+
+3. Array.Sort()
+
+4. Array.Length
+
+5. No
+
+6. Clone() returns a new array with the elements in it.
+CopyTo() copies the values to an array that already exists.
