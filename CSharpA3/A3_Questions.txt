@@ -1,0 +1,44 @@
+1. Access Modifiers
+	- public: Makes members accessible from anywhere inside and outside of the assembly
+	- private: Makes members only accessible within the current class
+	- protected: Like private but also accessible in derived classes
+	- internal: Members can only be accessed in the current assembly (project)
+	- protected internal: Members accessible in current class and derived classes, only in the current assembly
+	- private protected: Members only accessible in current class in current assembly
+
+2. const types can't be changed and must have a value assigned and is evaluated at compile time, 
+readonly types can only be changed through a constructor and evaluate at runtime, static type belongs to the type
+itself instead of the specific object.
+
+3. Initializes the members of a new object.
+
+4. When working on large projects, so multiple programmers can work on a class at the same time.
+
+5. Concise syntax to group multiple data elements together.
+
+6. Defines a reference type that provides built-in functionality for encapsulating data
+
+7. Overloading is when multiple methods use the same name in the same scope, but with different signatures.
+Overriding is when a child class changes the functionality of an inherited method from its parent class.
+
+8. A field is private to a class, and holds the acutal data. A property accesses the field, exposing only the contract.
+
+9. Using a default value. Or you can use overloading.
+
+10. Interface defines a contract which is implemented by inherited classes. Interface supports multiple inheritance, abstract
+does not. Interface can't have fields, abstract can.
+
+11. Public by default.
+
+12. True 
+13. True 
+14. False
+15. False
+16. True
+17. True
+18. True
+19. False
+20. False
+21. True
+22. False
+23. True

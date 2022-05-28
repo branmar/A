@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\CSharpA3\A3_03ObjectOrientedProgramming\bin\Debug\net6.0\A3_03WorkingWithMethods.exe
+C:\Users\User\source\repos\CSharpA3\A3_03ObjectOrientedProgramming\bin\Debug\net6.0\A3_03WorkingWithMethods.deps.json
+C:\Users\User\source\repos\CSharpA3\A3_03ObjectOrientedProgramming\bin\Debug\net6.0\A3_03WorkingWithMethods.runtimeconfig.json
+C:\Users\User\source\repos\CSharpA3\A3_03ObjectOrientedProgramming\bin\Debug\net6.0\A3_03WorkingWithMethods.dll
+C:\Users\User\source\repos\CSharpA3\A3_03ObjectOrientedProgramming\bin\Debug\net6.0\A3_03WorkingWithMethods.pdb
+C:\Users\User\source\repos\CSharpA3\A3_03ObjectOrientedProgramming\obj\Debug\net6.0\A3_03WorkingWithMethods.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\CSharpA3\A3_03ObjectOrientedProgramming\obj\Debug\net6.0\A3_03WorkingWithMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\CSharpA3\A3_03ObjectOrientedProgramming\obj\Debug\net6.0\A3_03WorkingWithMethods.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\CSharpA3\A3_03ObjectOrientedProgramming\obj\Debug\net6.0\A3_03WorkingWithMethods.AssemblyInfo.cs
+C:\Users\User\source\repos\CSharpA3\A3_03ObjectOrientedProgramming\obj\Debug\net6.0\A3_03WorkingWithMethods.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CSharpA3\A3_03ObjectOrientedProgramming\obj\Debug\net6.0\A3_03WorkingWithMethods.dll
+C:\Users\User\source\repos\CSharpA3\A3_03ObjectOrientedProgramming\obj\Debug\net6.0\refint\A3_03WorkingWithMethods.dll
+C:\Users\User\source\repos\CSharpA3\A3_03ObjectOrientedProgramming\obj\Debug\net6.0\A3_03WorkingWithMethods.pdb
+C:\Users\User\source\repos\CSharpA3\A3_03ObjectOrientedProgramming\obj\Debug\net6.0\A3_03WorkingWithMethods.genruntimeconfig.cache
+C:\Users\User\source\repos\CSharpA3\A3_03ObjectOrientedProgramming\obj\Debug\net6.0\ref\A3_03WorkingWithMethods.dll
