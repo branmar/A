@@ -1,0 +1,20 @@
+1. They allow you to write methods which are type safe and 
+Generics allow you to avoid boxing and unboxing, making things faster. 
+
+2. List<string> list = new List<string>();
+
+3. 2
+
+4. False
+
+5. Add()
+
+6. Remove() and RemoveRange()
+
+7. Put the parameter in angle brackets after the name <T>
+
+8. False
+
+9. True
+
+10. True
