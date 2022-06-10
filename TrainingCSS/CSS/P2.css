@@ -1,0 +1,38 @@
+.footer {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    background-color:rgb(40, 47, 51);
+    width: 100%;
+    height: 400px;
+    color:azure;
+    column-count: auto;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.footer a {
+    color: white;
+    text-decoration: none;
+}
+.footer a:hover {
+    color: cornflowerblue;
+}
+
+.bottom {
+    position: absolute;
+    background-color: black;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 50px;
+    color: white;
+}
+.column {
+    float: left;
+    width: 22%;
+}
+.footer ul {
+    list-style-type: none;
+}
+.footer li {
+    padding-top: 5px;
+}

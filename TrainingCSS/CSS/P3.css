@@ -1,0 +1,73 @@
+body {
+    background-color: gainsboro;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:0.9em;
+}
+
+.header {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 15%;
+    background-image: url("../Images/bannerBackground.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.header input {
+    position:absolute;
+    right: 100px;
+    top: 25px;
+    width: 100px;
+    height: 50px;
+    background-color: goldenrod;
+    color: white;
+    border-style: hidden;
+    float: right;
+}
+.header input:hover {
+    background-color: gold;
+    border-style: hidden;
+}
+.body {
+    position: absolute;
+    top: 17.5%;
+    left: 12.5%; 
+    right: 12.5%;
+    width: 80%;
+    column-count: auto;
+    float: left;
+}
+.body button {
+    float: left;
+    width: 25px;
+    height: 25px;
+    background-color:cornflowerblue;
+    color: white;
+    border-style: hidden;
+}
+.body button + button {
+    margin-left:1px;
+}
+.body button:hover {
+    background-color: goldenrod;
+}
+.column {
+    position:relative;
+    width: 25%;
+    height: 350px;
+    float: left;
+    background-color: white;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 25px;
+    padding-right: 25px;
+    margin-right: 1.67%;
+}
+h2, h3, h4 {
+    color: midnightblue;
+}
+.page-select {
+    margin-top:2%;
+    float:left;
+}
